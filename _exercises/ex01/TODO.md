@@ -30,29 +30,29 @@
           - [x] "In a large bowl, combine the cream and half a cup of confectioners sugar, and whip until thickened. Decorate with fruit of your choice."
 
 ## Task 2: Footer
-- [ ] Add a `<footer>` element
-  - [ ] Inside the footer:
-    - [ ] Add a `<div class="rating">`
-      - [ ] Add a `<p>` element with the text "89 Ratings"
-      - [ ] Add a `<span>` with four black stars and one white star
-    - [ ] Add a `<p>` element for copyright information with the text "All rights reserved © 2024"
+- [x] Add a `<footer>` element
+  - [x] Inside the footer:
+    - [x] Add a `<div class="rating">`
+      - [x] Add a `<p>` element with the text "89 Ratings"
+      - [x] Add a `<span>` with four black stars and one white star
+    - [x] Add a `<p>` element for copyright information with the text "All rights reserved © 2024"
 
 ## Task 3: CSS Styling
-- [ ] Set the `.container` class width to 800px and center it on the page
-- [ ] Apply 50px padding on the left and right
-- [ ] Change color of all `<p>` and `<li>` elements to `#707070`
-- [ ] Center all text in the header section
-- [ ] Style the headings with the following colors:
-  - [ ] `<h1>`: `#DB0038`
-  - [ ] `<h2>`: `#3998A3`
-  - [ ] `<h3>`: `#474747`
-- [ ] Hero section:
-  - [ ] Set background color to `#f4f4f4`
-  - [ ] Add shadow with a 10px blur
-  - [ ] Insert 50px padding on the left and right
-  - [ ] Ensure `<img>` elements have 100% width
-- [ ] Add 5px padding to the top and bottom of all `<li>` elements
-- [ ] Change the color of the star symbols in the rating section to `#F4B400`
-- [ ] Set star size to 25px
-- [ ] Center the footer content
-- [ ] Apply the "Happy Monkey" web font across the entire page
+- [x] Set the `.container` class width to 800px and center it on the page
+- [x] Apply 50px padding on the left and right
+- [x] Change color of all `<p>` and `<li>` elements to `#707070`
+- [x] Center all text in the header section
+- [x] Style the headings with the following colors:
+  - [x] `<h1>`: `#DB0038`
+  - [x] `<h2>`: `#3998A3`
+  - [x] `<h3>`: `#474747`
+- [x] Hero section:
+  - [x] Set background color to `#f4f4f4`
+  - [x] Add shadow with a 10px blur
+  - [x] Insert 50px padding on the left and right
+  - [x] Ensure `<img>` elements have 100% width
+- [x] Add 5px padding to the top and bottom of all `<li>` elements
+- [x] Change the color of the star symbols in the rating section to `#F4B400`
+- [x] Set star size to 25px
+- [x] Center the footer content
+- [x] Apply the "Happy Monkey" web font across the entire page
