@@ -21,13 +21,13 @@
           - [x] 1 cup white sugar
           - [x] 1 tablespoon cornstarch
           - [x] 1 teaspoon lemon juice
-        - [ ] Add an `<h3>` element with the text "Directions"
-        - [ ] Add a horizontal rule (`<hr>`)
-        - [ ] Add an ordered list (`<ol>`) with the following instructions:
-          - [ ] "Preheat the oven to 300 degrees F (150 degrees C). Line a sheet pan with parchment paper. Draw a 9 inch circle on the parchment."
-          - [ ] "In a large bowl, beat egg whites on high speed until soft peaks form. Add 3/4 cup of the sugar gradually while continuing to whip."
-          - [ ] "Spread a layer of meringue to fit a circle on parchment, approximately 1/4 inch thick."
-          - [ ] "In a large bowl, combine the cream and half a cup of confectioners sugar, and whip until thickened. Decorate with fruit of your choice."
+        - [x] Add an `<h3>` element with the text "Directions"
+        - [x] Add a horizontal rule (`<hr>`)
+        - [x] Add an ordered list (`<ol>`) with the following instructions:
+          - [x] "Preheat the oven to 300 degrees F (150 degrees C). Line a sheet pan with parchment paper. Draw a 9 inch circle on the parchment."
+          - [x] "In a large bowl, beat egg whites on high speed until soft peaks form. Add 3/4 cup of the sugar gradually while continuing to whip."
+          - [x] "Spread a layer of meringue to fit a circle on parchment, approximately 1/4 inch thick."
+          - [x] "In a large bowl, combine the cream and half a cup of confectioners sugar, and whip until thickened. Decorate with fruit of your choice."
 
 ## Task 2: Footer
 - [ ] Add a `<footer>` element
