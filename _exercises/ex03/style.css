@@ -1,0 +1,34 @@
+nav {
+    display: flex;
+    align-items: center;
+    background-color: #333;
+    padding: 10px;
+}
+nav img {
+    height: 40px;
+    margin-right: 20px;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+.hero {
+    padding: 50px;
+    background-color: #f4f4f4;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.content {
+    padding: 20px;
+}
+.subscription-form {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+}
+footer {
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    text-align: center;
+}
