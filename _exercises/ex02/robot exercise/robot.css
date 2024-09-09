@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+/* #robot1 {
+  width: 400px;
+  position: relative;
+} */
 img {
   width: 50px;
 }
@@ -24,4 +28,25 @@ img {
   width: 150px;
   top: 300px;
   left: 120px;
+}
+
+#nose1 {
+  position: absolute;
+  width: 75px;
+  top: 200px;
+  left: 160px;
+}
+
+#ears1 {
+  position: absolute;
+  width: 400px;
+  top: 50px;
+  left: 0px;
+}
+
+#hair1 {
+  position: absolute;
+  width: 320px;
+  top: 0px;
+  left: 40px;
 }
