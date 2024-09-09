@@ -1,13 +1,13 @@
 # Exercise 1: Recipe Page
 
 ## Task 1: HTML Structure
-- [ ] Create a `div` element with the class "container"
-- [ ] Inside the container:
-  - [ ] Add a `<header>` section:
-    - [ ] Add an `<h1>` element with the text "Recipes"
-    - [ ] Add a `<p>` element with the description "A great recipe is at the heart of every memorable meal. Browse our themed recipes for inspiration or search by ingredient."
-  - [ ] Add a hero section (`<div class="hero">`):
-    - [ ] Add an `<img>` element with a source for an image of mixed berries
+- [x] Create a `div` element with the class "container"
+- [x] Inside the container:
+  - [x] Add a `<header>` section:
+    - [x] Add an `<h1>` element with the text "Recipes"
+    - [x] Add a `<p>` element with the description "A great recipe is at the heart of every memorable meal. Browse our themed recipes for inspiration or search by ingredient."
+  - [x] Add a hero section (`<div class="hero">`):
+    - [x] Add an `<img>` element with a source for an image of mixed berries
     - [ ] Add an `<h3>` element with the text "RECIPES WE LOVE"
     - [ ] Add an `<h2>` element with the text "The Best Pavlova"
   - [ ] Add a `<main>` tag:
