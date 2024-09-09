@@ -1,7 +1,8 @@
 # Exercise 2: Robot Page
 
 ## Task 1: Setup
-- [ ] Download the robot template provided
+- [x] Download the robot template provided
+- [x] Setting CSS to zero
 - [ ] Start building the robot by mixing and matching the available images
 
 ## Task 2: Customization
