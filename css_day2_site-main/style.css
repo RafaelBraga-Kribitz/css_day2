@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: hsl(193, 60%, 15%);
+    
+}
+.sticky{
+    position: sticky;
+    top: 0.5rem;
+    background-color: rgba(0, 0, 0, 0.514);
+    padding: 1rem;
+    margin: .5rem;
+    box-shadow: 0 0 15px 0 rgb(152, 152, 152);
+    z-index: 1;
+}
+a{
+    color: whitesmoke;
+    text-decoration: none;
+    background-color: #8a2be2;
+    padding: .5rem;
+    margin-right: 1rem;
+}
+.relative{
+    height: 350px;
+    background-color: #333;
+    position: relative;
+}
+.absolute{
+    position: absolute;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.44);
+    width: 100%;
+    color: white;
+    text-align: center;
+    font-size: 3rem;
+    padding: 1rem;
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 700;
+    text-transform: capitalize;
+    text-shadow: 7px 7px 7px whitesmoke;
+}
+img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+p{
+    color: whitesmoke;
+    width: 70%;
+    margin: 2rem auto;
+    text-indent: 20px;
+    line-height: 25px;
+    letter-spacing: 1px;
+}
+p:last-of-type{
+    margin-bottom: 4rem;
+}
+.fixed{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color: whitesmoke;
+    background-color: black;
+    padding: 1rem;
+    opacity: .5;
+}

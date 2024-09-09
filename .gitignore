@@ -1,0 +1,11 @@
+# .gitignore
+
+# Ignore all video files in the root directory
+/*.mp4
+/*.avi
+/*.mov
+/*.mkv
+/*.flv
+/*.wmv
+/*.webm
+/*.m4v
