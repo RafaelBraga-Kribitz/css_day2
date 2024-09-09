@@ -8,19 +8,19 @@
     - [x] Add a `<p>` element with the description "A great recipe is at the heart of every memorable meal. Browse our themed recipes for inspiration or search by ingredient."
   - [x] Add a hero section (`<div class="hero">`):
     - [x] Add an `<img>` element with a source for an image of mixed berries
-    - [ ] Add an `<h3>` element with the text "RECIPES WE LOVE"
-    - [ ] Add an `<h2>` element with the text "The Best Pavlova"
-  - [ ] Add a `<main>` tag:
-    - [ ] Inside the main tag:
-      - [ ] Add a `<div class="content">`:
-        - [ ] Add an `<h3>` element with the text "Ingredients"
-        - [ ] Add a horizontal rule (`<hr>`)
-        - [ ] Add an unordered list (`<ul>`) with the following items:
-          - [ ] 3 egg whites
-          - [ ] 1 pinch salt
-          - [ ] 1 cup white sugar
-          - [ ] 1 tablespoon cornstarch
-          - [ ] 1 teaspoon lemon juice
+    - [x] Add an `<h3>` element with the text "RECIPES WE LOVE"
+    - [x] Add an `<h2>` element with the text "The Best Pavlova"
+  - [x] Add a `<main>` tag:
+    - [x] Inside the main tag:
+      - [x] Add a `<div class="content">`:
+        - [x] Add an `<h3>` element with the text "Ingredients"
+        - [x] Add a horizontal rule (`<hr>`)
+        - [x] Add an unordered list (`<ul>`) with the following items:
+          - [x] 3 egg whites
+          - [x] 1 pinch salt
+          - [x] 1 cup white sugar
+          - [x] 1 tablespoon cornstarch
+          - [x] 1 teaspoon lemon juice
         - [ ] Add an `<h3>` element with the text "Directions"
         - [ ] Add a horizontal rule (`<hr>`)
         - [ ] Add an ordered list (`<ol>`) with the following instructions:
